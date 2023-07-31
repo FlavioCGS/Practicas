@@ -2,7 +2,7 @@ let sumar = function(a,b,c){
     console.log(arguments[0]);
     console.log(arguments[1])
     console.log(arguments[2])
-    return a+b+c 
+    return a+b+ arguments[2];
 
 };
 
