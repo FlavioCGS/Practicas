@@ -16,4 +16,3 @@ const SumarFuncionTipoFlecha = (a,b) => a + b;
 resultado = SumarFuncionTipoFlecha(3,5);
 console.log(resultado);
 */
-//a
