@@ -64,4 +64,4 @@ console.log( Persona.contadorPersonas );
 
 let persona2 = new Persona('Karla', 'Ramirez');
 console.log( persona2.toString() );
-console.log( Persona.contadorPersonas);
+console.log( Persona.contadorPersonas);   
